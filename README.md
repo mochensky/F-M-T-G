@@ -27,11 +27,11 @@ No installation is required to use the tool, as it runs entirely in the browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mochensky/Fabric-Mod-Template-Generator.git
+   git clone https://github.com/mochensky/F-M-T-G.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Fabric-Mod-Template-Generator
+   cd F-M-T-G
    ```
 3. Open `index.html` in a web browser to use the tool locally.
 
@@ -43,7 +43,7 @@ Then, access the tool at `http://localhost:8000`.
 
 ## Usage
 
-1. Visit the live preview [here](https://mochensky.github.io/Fabric-Mod-Template-Generator/) or run the project locally.
+1. Visit the live preview [here](https://mochensky.github.io/F-M-T-G/) or run the project locally.
 2. Fill in the required fields in the "Basic Information" section (Mod Name, Mod ID, Main Class, Group ID, Artifact ID, Version).
 3. Select the desired versions for Minecraft, Fabric Loader, Yarn Mappings, Fabric API, Loom, and Gradle in the "Versions & Dependencies" section.
 4. Configure additional settings such as environment, license, description, authors, website, and optional features (Mixins, README).
