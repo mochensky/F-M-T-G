@@ -2,7 +2,7 @@
 
 ## Live Preview
 
-The tool is hosted on GitHub Pages and can be accessed [here](https://mochensky.github.io/Fabric-Mod-Template-Generator/). The live preview allows users to interact with the tool directly in their browser, input their mod details, and download the generated mod template.
+The tool is hosted on GitHub Pages and can be accessed [here](https://mochensky.github.io/F-M-T-G/). The live preview allows users to interact with the tool directly in their browser, input their mod details, and download the generated mod template.
 
 ## Overview
 
