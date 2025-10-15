@@ -2,7 +2,7 @@
 
 ## Live Preview
 
-The tool is hosted on GitHub Pages and can be accessed [here](https://mochensky.github.io/Fabric-Mod-Template-Generator/). The live preview allows users to interact with the tool directly in their browser, input their mod details, and download the generated mod template.
+The tool is hosted on GitHub Pages and can be accessed [here](https://mochensky.github.io/F-M-T-G/). The live preview allows users to interact with the tool directly in their browser, input their mod details, and download the generated mod template.
 
 ## Overview
 
@@ -43,7 +43,7 @@ Then, access the tool at `http://localhost:8000`.
 
 ## Usage
 
-1. Visit the live preview [here](https://mochensky.github.io/Fabric-Mod-Template-Generator/) or run the project locally.
+1. Visit the live preview [here](https://mochensky.github.io/F-M-T-G/) or run the project locally.
 2. Fill in the required fields in the "Basic Information" section (Mod Name, Mod ID, Main Class, Group ID, Artifact ID, Version).
 3. Select the desired versions for Minecraft, Fabric Loader, Yarn Mappings, Fabric API, Loom, and Gradle in the "Versions & Dependencies" section.
 4. Configure additional settings such as environment, license, description, authors, website, and optional features (Mixins, README).
